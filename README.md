@@ -1,4 +1,4 @@
-# MIQA website
+# MIQA landing page
 This repository is home to the files for the MIQA website. Below you will find building and deployment instructions as well as documentation for plugins and packages that this website depends on.
 
 Our Netlify build is live at https://miqa.kitware.com
