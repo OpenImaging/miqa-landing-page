@@ -116,7 +116,7 @@ collabrators:
 footnote: Get in touch with us to see if MIQA could improve accelerate your next imaging study.
 contact: https://www.kitware.com/contact-us/
 funding-note: Funded by NIH grant
-funding-number: R44MH119022
+funding-number: "#R44MH119022"
 ---
 
 # **M**edical **I**mage **Q**uality **A**ssurance **(MIQA)**
