@@ -112,11 +112,14 @@ collabrators:
     - title: 'Associate Professor'
       department: 'Electrical and Computer Engineering, IOWA'
 
+# Funding
+funding-title: "MIQA is Supported By"
+funding-note: "National Institute of Mental Health of the National Institutes of Health"
+funding-number: "#R44MH119022"
+
 #Foot Notes
 footnote: Get in touch with us to see if MIQA could improve accelerate your next imaging study.
 contact: https://www.kitware.com/contact-us/
-funding-note: Funded by NIH grant
-funding-number: "#R44MH119022"
 ---
 
 # **M**edical **I**mage **Q**uality **A**ssurance **(MIQA)**
