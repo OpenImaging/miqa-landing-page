@@ -1,13 +1,11 @@
 <div class="w-full">
     <h2 class="font-light text-4xl text-secondary-800 text-center">{{ page.funding-title }}</h2>
-    <div class="pt-12 grid md:grid-cols-2 gap-12">
-        <a href="{{ page.funding-link }}" class="grid grid-cols-1">
-            <img style="max-height: 50%;" class="md:justify-self-end sm:justify-self-center"
-                src="{{ page.funding-logo | prepend: site.baseurl }}" alt="">
+    <div class="py-6 grid md:grid-cols-2 lg:grid-cols-4 gap-12">
+        <a href="{{ page.funding-link }}" class="lg:col-start-2 flex items-center justify-center">
+            <img src="{{ page.funding-logo | prepend: site.baseurl }}" alt="" class="max-w-xs w-full">
         </a>
-        <a href="{{ page.funding2-link }}" class="grid grid-cols-1">
-            <img style="max-height: 50%;" class="md:justify-self-start sm:justify-self-center"
-                src="{{ page.funding2-logo | prepend: site.baseurl }}" alt="">
+        <a href="{{ page.funding2-link }}" class="flex items-center justify-center">
+            <img src="{{ page.funding2-logo | prepend: site.baseurl }}" alt="" class="max-w-xs w-full">
         </a>
     </div>
     <div class="lg:text-xl sm:text-base text-secondary-400 text-center">
