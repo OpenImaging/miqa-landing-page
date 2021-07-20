@@ -1,0 +1,12 @@
+<div class="w-full">
+    <h2 class="font-light text-4xl text-secondary-800 text-center">{{ page.usecases-title }}</h2>
+    {% for usecase in page.usecases %}
+    <a href="{{ usecase.link }}" class="grid grid-cols-1 pt-6">
+        <img class="justify-self-center" src="{{ usecase.logo | prepend: site.baseurl }}" alt="">
+        <span class="justify-self-center"> Learn more </span>
+    </a>
+    <div class="text-xl text-secondary-400 text-center">
+        {{ usecase.note }}
+    </div>
+    {% endfor %}
+</div>

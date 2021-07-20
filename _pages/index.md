@@ -113,9 +113,18 @@ collabrators:
       department: 'Electrical and Computer Engineering, IOWA'
 
 # Funding
-funding-title: "MIQA is Supported By"
-funding-note: "National Institute of Mental Health of the National Institutes of Health"
-funding-number: "#R44MH119022"
+funding-title: "Support"
+funding-note: "The project is funded by the grant R44 MH119022 of the National Institute of Mental Health and Stanford Institute for Human-centered Artificial Intelligence (HAI) AWS Cloud Credit"
+funding-logo: img/Funding_logos/NIMH.png
+funding-link: https://www.nimh.nih.gov/
+funding2-logo: img/Funding_logos/HAI.png
+funding2-link: https://hai.stanford.edu/research/grant-programs
+
+usecases-title: 'Use Cases'
+usecases:
+  - link: "http://www.ncanda.org/"
+    logo: img/Funding_logos/NCANDA.png
+    text: ""
 
 #Foot Notes
 footnote: Get in touch with us to see if MIQA could improve accelerate your next imaging study.
