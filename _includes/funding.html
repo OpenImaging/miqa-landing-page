@@ -1,9 +1,14 @@
 <div class="w-full">
     <h2 class="font-light text-4xl text-secondary-800 text-center">{{ page.funding-title }}</h2>
-    <div class="grid gap-12 grid-cols-2 pt-12">
-        <img style="max-height: 50%;" class="justify-self-end" src="{{ page.funding-logo | prepend: site.baseurl }}"
-            alt="">
-        <img style="max-height: 50%;" src="{{ page.funding2-logo | prepend: site.baseurl }}" alt="">
+    <div class="pt-12 grid md:grid-cols-2 gap-12">
+        <a href="{{ page.funding-link }}" class="grid grid-cols-1">
+            <img style="max-height: 50%;" class="md:justify-self-end sm:justify-self-center"
+                src="{{ page.funding-logo | prepend: site.baseurl }}" alt="">
+        </a>
+        <a href="{{ page.funding2-link }}" class="grid grid-cols-1">
+            <img style="max-height: 50%;" class="md:justify-self-start sm:justify-self-center"
+                src="{{ page.funding2-logo | prepend: site.baseurl }}" alt="">
+        </a>
     </div>
     <div class="lg:text-xl sm:text-base text-secondary-400 text-center">
         {{ page.funding-note }}
