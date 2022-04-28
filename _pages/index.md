@@ -12,6 +12,8 @@ hero_title: 'MIQA'
 hero_description: 'Efficient and accurate QC processing by leveraging modern UI/UX and deep learning techniques'
 # learn_more_link: 'https://github.com/OpenImaging/miqa'
 github_link: 'https://github.com/OpenImaging/miqa'
+documentation_link: 'https://openimaging.github.io/miqa/'
+demo_link: 'https://app.miqaweb.io/'
 
 # Features
 features_title: Features
