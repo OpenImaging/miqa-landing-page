@@ -84,8 +84,6 @@ collabrators:
       title: 'Key Personnel'
     - name: 'Dženan Zukić'
       title: 'Lead Developer'
-    - name: 'Daniel Chiquito'
-      title: 'Lead Developer'
     - name: 'Scott Wittenberg'
       title: 'Developer'
     - name: 'Jeff Baumes'
