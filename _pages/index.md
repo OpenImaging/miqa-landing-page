@@ -130,7 +130,7 @@ usecases:
 
 #Foot Notes
 footnote: Get in touch with us to see if MIQA could improve accelerate your next imaging study.
-contact: https://www.kitware.com/contact-us/
+contact: https://www.kitware.com/contact/general/?message=I%20would%20like%20to%20schedule%20a%20demo%20of%20MIQA
 ---
 
 # **M**edical **I**mage **Q**uality **A**ssurance **(MIQA)**
